@@ -1,0 +1,34 @@
+_repo: Little-Saint-Elizabeth-and-Other-Stories_10466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: Little Saint Elizabeth.--The story of Prince Fairyfoot.--the proud little
+  grain of wheat.--Behind the white brick.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Little Saint Elizabeth -- The story of Prince Fairyfoot -- The proud
+  little grain of wheat -- Behind the white brick.
+title: Little Saint Elizabeth and Other Stories
+url: http://www.gutenberg.org/ebooks/10466
